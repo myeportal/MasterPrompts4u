@@ -1,0 +1,40 @@
+{
+  "repo": "MasterPrompts4u",
+  "title": "MasterPrompts4u",
+  "tag": "Prompt Marketplace Funnel",
+  "accent": "#a78bfa",
+  "accent2": "#06b6d4",
+  "hook": "A PromptBase-inspired funnel project designed to feel more like a business machine than a static prompt listing page.",
+  "sections": [
+    [
+      "01",
+      "Core Offer",
+      "Prompt-vault style landing page, checkout page, upsell, downsell, offer wall, and conversion-ready flow."
+    ],
+    [
+      "02",
+      "Problem Solved",
+      "Transforms generic prompt collections into a more premium, curated, purchase-oriented offer structure."
+    ],
+    [
+      "03",
+      "Key Assets",
+      "Full multi-step funnel, config-driven review mode, branded visuals, and offer sequencing logic."
+    ],
+    [
+      "04",
+      "Ideal Buyer",
+      "Prompt buyers, creators, marketers, and AI users who want curated shortcuts instead of scattered prompt files."
+    ],
+    [
+      "05",
+      "Growth Path",
+      "Discovery -> featured prompt packs -> checkout -> upsell paths -> broader vault monetization."
+    ],
+    [
+      "06",
+      "Next Expansion",
+      "Add pack previews, category pages, testimonials, live payment wiring, and creator/affiliate collaboration."
+    ]
+  ]
+}
